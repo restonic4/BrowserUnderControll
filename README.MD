@@ -1,0 +1,2 @@
+This extension runs on your web browser and creates a local server, so then you can connect to it with whatever language you want.
+This is on development, personal project for ricing my Linux OS into connection easyly with different websites to automate tasks, such as playing music on sevreal websites or whatever.
